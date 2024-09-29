@@ -1193,7 +1193,7 @@
 			)
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(reference "H2")
 					(unit 1)
@@ -1257,7 +1257,7 @@
 			)
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(reference "H4")
 					(unit 1)
@@ -1327,7 +1327,7 @@
 			(uuid "07bcf829-ada0-4864-87a4-c27a6e0115f6")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(reference "R2")
 					(unit 1)
@@ -1393,7 +1393,7 @@
 			(uuid "60c8764c-be55-44b6-abed-4d15cdf18050")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(reference "#PWR01")
 					(unit 1)
@@ -1463,7 +1463,7 @@
 			(uuid "9ffb14d1-b47b-4e2d-a73f-0dde1157c46b")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(reference "R1")
 					(unit 1)
@@ -1527,7 +1527,7 @@
 			)
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(reference "H3")
 					(unit 1)
@@ -1591,7 +1591,7 @@
 			)
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(reference "H5")
 					(unit 1)
@@ -1655,7 +1655,7 @@
 			)
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(reference "H1")
 					(unit 1)
@@ -1765,7 +1765,7 @@
 			(uuid "e1d56701-ff05-4c63-96cf-963769505daf")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(page "2")
 				)
@@ -1914,7 +1914,7 @@
 			(uuid "b8def3e4-ed7a-4edc-bf85-dd73044c8746")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(page "4")
 				)
@@ -2133,7 +2133,7 @@
 			(uuid "14fea89c-19b7-4c74-ae68-3edfaa753f8b")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(page "3")
 				)
@@ -2472,7 +2472,7 @@
 			(uuid "048aca40-9171-44ad-86e4-62814b15dc60")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b"
 					(page "1")
 				)

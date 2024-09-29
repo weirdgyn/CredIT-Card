@@ -407,7 +407,7 @@
 			(uuid "334a4c34-90b3-4bec-a2e9-d7228b13047b")
 		)
 	)
-	(footprint "myCC:RJD2032C1ST1"
+	(footprint "CredIT-Card:RJD2032C1ST1"
 		(layer "F.Cu")
 		(uuid "7b8382cc-9b5c-4ea6-86ec-9317116b090a")
 		(at 82 106)
@@ -436,7 +436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myCC:RJD2032C1ST1"
+		(property "Footprint" "CredIT-Card:RJD2032C1ST1"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -526,7 +526,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "3a74ed3f-8623-4eb9-8f3a-b744b73f8db5")
 		)
-		(model "${KIPRJMOD}/myCC.pretty/RJD2032C1ST1.stp"
+		(model "${KIPRJMOD}/CredIT-Card.pretty/RJD2032C1ST1.stp"
 			(offset
 				(xyz 0 0 -4)
 			)
@@ -756,7 +756,7 @@
 			(uuid "9e66f7e0-78f1-4161-aa89-2e072ba3c9a3")
 		)
 	)
-	(footprint "myCC:SW_EG1215AA"
+	(footprint "CredIT-Card:SW_EG1215AA"
 		(layer "F.Cu")
 		(uuid "f199bbb3-0468-4f1d-afe2-2068d2a527d9")
 		(at 72 94 -90)
@@ -783,7 +783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myCC:SW_EG1215AA"
+		(property "Footprint" "CredIT-Card:SW_EG1215AA"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1115,7 +1115,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "831a62b3-9881-41c9-ad9b-5d9d5bda44aa")
 		)
-		(model "${KIPRJMOD}/myCC.pretty/EG1215AA.step"
+		(model "${KIPRJMOD}/CredIT-Card.pretty/EG1215AA.step"
 			(offset
 				(xyz 0 0 1.5)
 			)
@@ -1127,7 +1127,7 @@
 			)
 		)
 	)
-	(footprint "myCC:TE_2425578-1"
+	(footprint "CredIT-Card:TE_2425578-1"
 		(layer "B.Cu")
 		(uuid "5f476d9e-c431-4ae0-822e-e3a31c143db4")
 		(at 136 69 180)
@@ -1157,7 +1157,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "myCC:TE_2425578-1"
+		(property "Footprint" "CredIT-Card:TE_2425578-1"
 			(at 0 -5.3 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -1398,7 +1398,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "4160ba3e-5034-4888-9b16-1bb38d6d2477")
 		)
-		(model "${KIPRJMOD}/myCC.pretty/c-2425578-1-a-3d.stp"
+		(model "${KIPRJMOD}/CredIT-Card.pretty/c-2425578-1-a-3d.stp"
 			(offset
 				(xyz 0 0.5 0.5)
 			)
@@ -1410,7 +1410,7 @@
 			)
 		)
 	)
-	(footprint "myCC:TE_3-1734839-0"
+	(footprint "CredIT-Card:TE_3-1734839-0"
 		(layer "B.Cu")
 		(uuid "771d4b9d-e78f-4e86-946c-acb5ff8b984f")
 		(at 133 85 90)
@@ -1438,7 +1438,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "myCC:TE_3-1734839-0"
+		(property "Footprint" "CredIT-Card:TE_3-1734839-0"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -1913,7 +1913,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "09e4881a-0887-44b1-9859-d3820330803d")
 		)
-		(model "${KIPRJMOD}/myCC.pretty/3-1734839-0.step"
+		(model "${KIPRJMOD}/CredIT-Card.pretty/3-1734839-0.step"
 			(offset
 				(xyz 0 -2.2 0)
 			)
@@ -1925,7 +1925,7 @@
 			)
 		)
 	)
-	(footprint "myCC:TE_2295018-2"
+	(footprint "CredIT-Card:TE_2295018-2"
 		(layer "B.Cu")
 		(uuid "82f55283-2f41-4737-a115-23519ce65b04")
 		(at 157.5 104.5 -90)
@@ -1954,7 +1954,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "myCC:TE_2295018-2"
+		(property "Footprint" "CredIT-Card:TE_2295018-2"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -2992,7 +2992,7 @@
 			(remove_unused_layers no)
 			(uuid "98c7652f-aa7c-4d04-a805-871577eebcd0")
 		)
-		(model "${KIPRJMOD}/myCC.pretty/2295018-2.step"
+		(model "${KIPRJMOD}/CredIT-Card.pretty/2295018-2.step"
 			(offset
 				(xyz 0 1.4 0)
 			)
@@ -3709,7 +3709,7 @@
 			)
 		)
 	)
-	(footprint "myCC:TE_2425578-1"
+	(footprint "CredIT-Card:TE_2425578-1"
 		(layer "B.Cu")
 		(uuid "9da52bb1-b9db-4650-bd30-537d34fa3988")
 		(at 120 69 180)
@@ -3739,7 +3739,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" "myCC:TE_2425578-1"
+		(property "Footprint" "CredIT-Card:TE_2425578-1"
 			(at 0 -5.3 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -3980,7 +3980,7 @@
 			(thermal_bridge_angle 45)
 			(uuid "99f9c792-b107-4e23-9167-a3dfc2c31fc0")
 		)
-		(model "${KIPRJMOD}/myCC.pretty/c-2425578-1-a-3d.stp"
+		(model "${KIPRJMOD}/CredIT-Card.pretty/c-2425578-1-a-3d.stp"
 			(offset
 				(xyz 0 0.5 0.5)
 			)

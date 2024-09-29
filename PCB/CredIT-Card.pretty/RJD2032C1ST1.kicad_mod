@@ -117,7 +117,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "0b5b63cf-8e66-4165-b66e-664813987ffc")
 	)
-	(model "${KIPRJMOD}/myCC.pretty/3D/RJD2032C1ST1.stp"
+	(model "${KIPRJMOD}/CredIT-Card.pretty/3D/RJD2032C1ST1.stp"
 		(offset
 			(xyz 0 0 -4)
 		)

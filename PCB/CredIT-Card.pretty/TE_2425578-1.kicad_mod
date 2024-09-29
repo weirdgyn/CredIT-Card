@@ -1,4 +1,4 @@
-(footprint "TL4115"
+(footprint "TE_2425578-1"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "TL4115"
+	(property "Value" "2425578-1"
 		(at 0 6.8 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" "TL4115"
+	(property "Footprint" "TE_2425578-1"
 		(at 0 5.3 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -264,7 +264,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "26608130-84f4-4ce0-bb5b-92794c9ac75b")
 	)
-	(model "${KIPRJMOD}/myCC.pretty/3D/c-2425578-1-a-3d.stp"
+	(model "${KIPRJMOD}/CredIT-Card.pretty/3D/c-2425578-1-a-3d.stp"
 		(offset
 			(xyz 0 0.5 0.5)
 		)

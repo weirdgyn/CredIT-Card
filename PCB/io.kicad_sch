@@ -2877,7 +2877,7 @@
 				)
 			)
 		)
-		(symbol "myCC:3-1734839-0"
+		(symbol "CredIT-Card:3-1734839-0"
 			(pin_names
 				(offset 1.016)
 			)
@@ -3550,7 +3550,7 @@
 				)
 			)
 		)
-		(symbol "myCC:AD5110"
+		(symbol "CredIT-Card:AD5110"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3775,7 +3775,7 @@
 				)
 			)
 		)
-		(symbol "myCC:LM27952SD"
+		(symbol "CredIT-Card:LM27952SD"
 			(pin_names
 				(offset 1.016)
 			)
@@ -4242,7 +4242,7 @@
 				)
 			)
 		)
-		(symbol "myCC:LM4819"
+		(symbol "CredIT-Card:LM4819"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4449,7 +4449,7 @@
 				)
 			)
 		)
-		(symbol "myCC:LTC3218"
+		(symbol "CredIT-Card:LTC3218"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -8933,7 +8933,7 @@
 			(uuid "1dea3e29-9df6-4580-a3c2-f7f718765607")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "D5")
 					(unit 1)
@@ -8999,7 +8999,7 @@
 			(uuid "540b586d-a359-44b5-9cd3-5b56970fbc74")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0124")
 					(unit 1)
@@ -9066,7 +9066,7 @@
 			(uuid "c901532a-b3e5-4338-8015-dfae59161a5e")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR095")
 					(unit 1)
@@ -9154,7 +9154,7 @@
 			(uuid "a13e8195-27c3-4e97-a4d7-93dba6963c0d")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C30")
 					(unit 1)
@@ -9223,7 +9223,7 @@
 			(uuid "069d744b-04b1-46b0-a839-7f2d31fabb2e")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "D6")
 					(unit 1)
@@ -9291,7 +9291,7 @@
 			(uuid "9adfc404-7b56-4046-8ec0-c5cf757a29b4")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R18")
 					(unit 1)
@@ -9360,7 +9360,7 @@
 			(uuid "5bd5b0aa-6f0a-4eb3-8d97-bba4bf7e2528")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R30")
 					(unit 1)
@@ -9430,7 +9430,7 @@
 			(uuid "c582e8bf-05ba-496e-9a4e-de021cb9535b")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C25")
 					(unit 1)
@@ -9501,7 +9501,7 @@
 			(uuid "9b86acf2-6824-480a-8d61-ea4944ca8317")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C39")
 					(unit 1)
@@ -9570,7 +9570,7 @@
 			(uuid "415bfa04-b072-455b-a84b-5624d690ad56")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R29")
 					(unit 1)
@@ -9637,7 +9637,7 @@
 			(uuid "8f8a6f48-62c2-46d6-a8ef-020a0919aa1e")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0105")
 					(unit 1)
@@ -9706,7 +9706,7 @@
 			(uuid "72f8f6fd-835b-4382-96df-343e3f288314")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R28")
 					(unit 1)
@@ -9775,7 +9775,7 @@
 			(uuid "0fb5648b-4c93-40b8-9f90-cbacd99c369f")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "D4")
 					(unit 1)
@@ -9842,7 +9842,7 @@
 			(uuid "f6999444-66e7-4908-b204-475f27e96437")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0117")
 					(unit 1)
@@ -9908,7 +9908,7 @@
 			(uuid "02d37fe5-7194-4fdd-9dc9-0f3b4b7a66d9")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR066")
 					(unit 1)
@@ -9975,7 +9975,7 @@
 			(uuid "27ae43e2-09b9-464e-be13-c03e645ca745")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0107")
 					(unit 1)
@@ -9984,7 +9984,7 @@
 		)
 	)
 	(symbol
-		(lib_id "myCC:LM27952SD")
+		(lib_id "CredIT-Card:LM27952SD")
 		(at 113.03 87.63 0)
 		(mirror y)
 		(unit 1)
@@ -10104,7 +10104,7 @@
 			(uuid "139e5d5d-d6fb-45a8-9bb8-dede1789f523")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "U7")
 					(unit 1)
@@ -10170,7 +10170,7 @@
 			(uuid "d5daae3d-673d-44fe-83de-deb742a2a7c5")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0112")
 					(unit 1)
@@ -10179,7 +10179,7 @@
 		)
 	)
 	(symbol
-		(lib_id "myCC:AD5110")
+		(lib_id "CredIT-Card:AD5110")
 		(at 53.34 203.2 0)
 		(mirror y)
 		(unit 1)
@@ -10259,7 +10259,7 @@
 			(uuid "6a7be895-2ba4-41aa-9ad6-ec18a4356fb9")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "U6")
 					(unit 1)
@@ -10328,7 +10328,7 @@
 			(uuid "7791e13c-e3f4-4176-b9b8-b274c84d2b77")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R31")
 					(unit 1)
@@ -10397,7 +10397,7 @@
 			(uuid "d107246a-b5b8-4e26-8f77-aef6eed3ac64")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "D8")
 					(unit 1)
@@ -10466,7 +10466,7 @@
 			(uuid "e1d71026-41c3-4d2b-89ee-5369e7dc0c77")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "D7")
 					(unit 1)
@@ -10532,7 +10532,7 @@
 			(uuid "0895fb8e-6ec4-49cf-bb92-59f33b671aab")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR087")
 					(unit 1)
@@ -10620,7 +10620,7 @@
 			(uuid "416bb0b9-25de-4bb5-84ac-ea5b7a9707d0")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C33")
 					(unit 1)
@@ -10629,7 +10629,7 @@
 		)
 	)
 	(symbol
-		(lib_id "myCC:3-1734839-0")
+		(lib_id "CredIT-Card:3-1734839-0")
 		(at 193.04 102.87 0)
 		(mirror x)
 		(unit 1)
@@ -10655,7 +10655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myCC:TE_3-1734839-0"
+		(property "Footprint" "CredIT-Card:TE_3-1734839-0"
 			(at 193.04 102.87 0)
 			(effects
 				(font
@@ -10802,7 +10802,7 @@
 			(uuid "e5d5f136-7ff0-40dd-a181-109f941fd806")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "J2")
 					(unit 1)
@@ -10869,7 +10869,7 @@
 			(uuid "7856445a-1fce-479a-88e8-960be6b49f76")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C40")
 					(unit 1)
@@ -10938,7 +10938,7 @@
 			(uuid "da157102-1f69-4d8a-9b32-dfa799f82923")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R32")
 					(unit 1)
@@ -11004,7 +11004,7 @@
 			(uuid "e5d537b3-2451-4fe7-beba-6b9c1e52ac89")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR084")
 					(unit 1)
@@ -11092,7 +11092,7 @@
 			(uuid "e8b13710-ef97-4dde-8f3f-ec1fe18f5ef1")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C31")
 					(unit 1)
@@ -11159,7 +11159,7 @@
 			(uuid "0ce835c4-4d4a-4186-9607-8997418c34c4")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR093")
 					(unit 1)
@@ -11194,7 +11194,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myCC:TOUCH_BT"
+		(property "Footprint" "CredIT-Card:TOUCH_BT"
 			(at 346.71 83.82 0)
 			(effects
 				(font
@@ -11225,7 +11225,7 @@
 			(uuid "6532d568-3f84-40a0-85b9-f0cc51b6bf1c")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "TB5")
 					(unit 1)
@@ -11291,7 +11291,7 @@
 			(uuid "4a4dd531-f78e-44d3-bbdf-f8533bf2c5d1")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR096")
 					(unit 1)
@@ -11358,7 +11358,7 @@
 			(uuid "7aa658e8-f1d8-42d9-8bfc-885d0eb8a171")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR067")
 					(unit 1)
@@ -11424,7 +11424,7 @@
 			(uuid "facca2a0-181b-46e6-b415-3313db8e6287")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR075")
 					(unit 1)
@@ -11492,7 +11492,7 @@
 			(uuid "3bdc1f45-92ec-478b-815f-50865f014cdb")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C37")
 					(unit 1)
@@ -11559,7 +11559,7 @@
 			(uuid "89f32009-7c20-42a7-b17b-d36a76f5cd5f")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR068")
 					(unit 1)
@@ -11626,7 +11626,7 @@
 			(uuid "31cafcb3-b183-41e9-9668-e753ff161a73")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0166")
 					(unit 1)
@@ -11692,7 +11692,7 @@
 			(uuid "c0dda060-54ec-4b63-b110-c41ce2c50af0")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0113")
 					(unit 1)
@@ -11759,7 +11759,7 @@
 			(uuid "dd2b01a4-07df-4b37-8e52-37f63a0dae2a")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0115")
 					(unit 1)
@@ -11845,7 +11845,7 @@
 			(uuid "74e8a3d2-44e6-4344-853f-797fb4c9f99d")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C27")
 					(unit 1)
@@ -11915,7 +11915,7 @@
 			(uuid "8c1cdff4-bcbd-4c69-81f8-a224f655e734")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "J1")
 					(unit 1)
@@ -12002,7 +12002,7 @@
 			(uuid "8d8f6500-9e37-4d85-8a8e-0adb1e615739")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C28")
 					(unit 1)
@@ -12068,7 +12068,7 @@
 			(uuid "0d8959e6-42b1-41b2-a685-b32dd548ec38")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0109")
 					(unit 1)
@@ -12138,7 +12138,7 @@
 			(uuid "21d96183-1ffe-4e4f-b883-f14b834341ce")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C24")
 					(unit 1)
@@ -12172,7 +12172,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myCC:TE_2295018-2 "
+		(property "Footprint" "CredIT-Card:TE_2295018-2 "
 			(at 229.87 68.58 0)
 			(effects
 				(font
@@ -12293,7 +12293,7 @@
 			(uuid "73e0544f-e947-416b-bc1c-7eb8c89c7471")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "J3")
 					(unit 1)
@@ -12360,7 +12360,7 @@
 			(uuid "ef285de7-439f-4a79-9134-67b998f649a1")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0125")
 					(unit 1)
@@ -12427,7 +12427,7 @@
 			(uuid "65bfd13d-0fff-4b6d-897e-ef31e1602f11")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR074")
 					(unit 1)
@@ -12496,7 +12496,7 @@
 			(uuid "22ac879d-563f-4baa-b43e-8fdbe136ac7a")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "D9")
 					(unit 1)
@@ -12563,7 +12563,7 @@
 			(uuid "71fcc333-7959-4ff6-ade9-9f1692d0b559")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0119")
 					(unit 1)
@@ -12630,7 +12630,7 @@
 			(uuid "f7f3302d-c997-49df-840a-6416c64b8088")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR099")
 					(unit 1)
@@ -12701,7 +12701,7 @@
 			(uuid "9043f7e7-2046-4c12-bfc7-06af2a85d46e")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R17")
 					(unit 1)
@@ -12768,7 +12768,7 @@
 			(uuid "f9820aee-fbd8-4bc2-860d-9053ecb1480d")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0106")
 					(unit 1)
@@ -12803,7 +12803,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myCC:TOUCH_BT"
+		(property "Footprint" "CredIT-Card:TOUCH_BT"
 			(at 346.71 76.2 0)
 			(effects
 				(font
@@ -12834,7 +12834,7 @@
 			(uuid "2793a0b8-8e6c-4661-b4b3-07b7693f010e")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "TB4")
 					(unit 1)
@@ -12900,7 +12900,7 @@
 			(uuid "a3209303-dbfc-4326-9984-29dc1c98bdb3")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0111")
 					(unit 1)
@@ -12966,7 +12966,7 @@
 			(uuid "ddac60e5-7996-4b4c-9ede-fc1ccae34756")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0122")
 					(unit 1)
@@ -13032,7 +13032,7 @@
 			(uuid "93fd4ea5-3a5a-402e-8bbf-1af28ac7b7fd")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR077")
 					(unit 1)
@@ -13099,7 +13099,7 @@
 			(uuid "bf5bee0e-a474-4c09-84ae-97b19a934d45")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR094")
 					(unit 1)
@@ -13165,7 +13165,7 @@
 			(uuid "40567d2d-b073-4be2-8e86-f3f8751f79b9")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0118")
 					(unit 1)
@@ -13232,7 +13232,7 @@
 			(uuid "631f83f5-4449-42be-9862-9897b6c807d8")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0114")
 					(unit 1)
@@ -13299,7 +13299,7 @@
 			(uuid "71c86b75-d58d-432a-9b14-4f4475bdd8f3")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR072")
 					(unit 1)
@@ -13336,7 +13336,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myCC:TE_2425578-1"
+		(property "Footprint" "CredIT-Card:TE_2425578-1"
 			(at 300.99 219.71 0)
 			(effects
 				(font
@@ -13388,7 +13388,7 @@
 			(uuid "cc8391c6-4e16-4803-a9a5-25efab747467")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "SW2")
 					(unit 1)
@@ -13423,7 +13423,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myCC:TOUCH_BT"
+		(property "Footprint" "CredIT-Card:TOUCH_BT"
 			(at 346.71 53.34 0)
 			(effects
 				(font
@@ -13454,7 +13454,7 @@
 			(uuid "642b97bf-dd12-4521-9f60-63f0d96b3cf3")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "TB1")
 					(unit 1)
@@ -13520,7 +13520,7 @@
 			(uuid "65f508c5-aca0-48d9-8d02-b277fd9d291b")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR071")
 					(unit 1)
@@ -13555,7 +13555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myCC:TOUCH_BT"
+		(property "Footprint" "CredIT-Card:TOUCH_BT"
 			(at 346.71 60.96 0)
 			(effects
 				(font
@@ -13586,7 +13586,7 @@
 			(uuid "228b28b5-a727-40f3-8633-2cf81bb2e8c5")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "TB2")
 					(unit 1)
@@ -13652,7 +13652,7 @@
 			(uuid "50dd0a4f-7817-418e-aa77-41bff70b3db6")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR097")
 					(unit 1)
@@ -13718,7 +13718,7 @@
 			(uuid "7b626511-42ef-479c-ab03-ff4eb8eb3502")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0120")
 					(unit 1)
@@ -13785,7 +13785,7 @@
 			(uuid "b48981e5-2a89-4432-aeb5-51f7baa0ec69")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR088")
 					(unit 1)
@@ -13855,7 +13855,7 @@
 			(uuid "6278cfb3-8e36-448e-b7f4-cd7bff89b6d1")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C26")
 					(unit 1)
@@ -13922,7 +13922,7 @@
 			(uuid "383f6cf6-15b6-4e0c-8ab6-b49adb136c99")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0100")
 					(unit 1)
@@ -13989,7 +13989,7 @@
 			(uuid "f3e2f2ff-d58c-4bdf-aa8f-a7922f57cab2")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR092")
 					(unit 1)
@@ -14059,7 +14059,7 @@
 			(uuid "2bd0f91d-9d36-4c65-9e6c-a5ae25e9d2aa")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C34")
 					(unit 1)
@@ -14137,7 +14137,7 @@
 			(uuid "1ec0afd0-8a94-4adc-9789-6964767d95cd")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "U12")
 					(unit 1)
@@ -14204,7 +14204,7 @@
 			(uuid "793bd52d-d579-4914-93fc-f8079b33bfcc")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR079")
 					(unit 1)
@@ -14271,7 +14271,7 @@
 			(uuid "c56a7831-a7df-476b-b185-3f66d50902a6")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR080")
 					(unit 1)
@@ -14357,7 +14357,7 @@
 			(uuid "5ee4a287-2eb8-4ffa-afca-bd2c9bcff7b6")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "L1")
 					(unit 1)
@@ -14428,7 +14428,7 @@
 			(uuid "267036e2-1a5d-4fdf-8498-b182e9b18c51")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C44")
 					(unit 1)
@@ -14499,7 +14499,7 @@
 			(uuid "57cbee1d-87ee-40c0-aa44-b88c7022a835")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R21")
 					(unit 1)
@@ -14570,7 +14570,7 @@
 			(uuid "bc963e6c-cfc8-41d2-b301-7d5ea5f06811")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R22")
 					(unit 1)
@@ -14635,7 +14635,7 @@
 			(uuid "42326fde-e012-4c04-bf80-0c9fc2b4e0f1")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0101")
 					(unit 1)
@@ -14702,7 +14702,7 @@
 			(uuid "ebe8e93d-cc35-48a4-9001-b4d6264ccef9")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0108")
 					(unit 1)
@@ -14768,7 +14768,7 @@
 			(uuid "8a127b71-e580-4c8b-bca7-b303fdae7948")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR085")
 					(unit 1)
@@ -14836,7 +14836,7 @@
 			(uuid "56e705d9-8aa8-47af-a7a2-c444a06728e1")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R24")
 					(unit 1)
@@ -14903,7 +14903,7 @@
 			(uuid "d77f07f6-f4bb-433c-b483-976fa5a91af1")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0110")
 					(unit 1)
@@ -14970,7 +14970,7 @@
 			(uuid "4f11d0cf-b169-4d50-8f45-20a3aed32569")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C43")
 					(unit 1)
@@ -15036,7 +15036,7 @@
 			(uuid "87f48aef-33e9-4165-8e02-31e221481fbf")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0103")
 					(unit 1)
@@ -15102,7 +15102,7 @@
 			(uuid "9369e325-f9dc-4425-8491-46bfa505bdf0")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0102")
 					(unit 1)
@@ -15111,7 +15111,7 @@
 		)
 	)
 	(symbol
-		(lib_id "myCC:LTC3218")
+		(lib_id "CredIT-Card:LTC3218")
 		(at 189.23 205.74 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15197,7 +15197,7 @@
 			(uuid "cf86c5dd-1a0f-4f37-af17-525dd5ac6904")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "U9")
 					(unit 1)
@@ -15266,7 +15266,7 @@
 			(uuid "30111c82-1512-4c04-ad88-94b11fc360cc")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R27")
 					(unit 1)
@@ -15333,7 +15333,7 @@
 			(uuid "d13339f3-6866-4288-860c-7900cea3570a")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0121")
 					(unit 1)
@@ -15457,7 +15457,7 @@
 			(uuid "cab8bd56-d5ad-482e-a42d-24b625219ddb")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "U11")
 					(unit 1)
@@ -15545,7 +15545,7 @@
 			(uuid "8ed35e18-c022-404d-9712-4d182cc329e8")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C32")
 					(unit 1)
@@ -15615,7 +15615,7 @@
 			(uuid "218f8ad4-ed7b-42c9-944a-b675950aa90b")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C36")
 					(unit 1)
@@ -15683,7 +15683,7 @@
 			(uuid "70a1db70-a1c2-42e5-bb35-77236754c98d")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R23")
 					(unit 1)
@@ -15753,7 +15753,7 @@
 			(uuid "93ab2594-b7ec-4ef5-bb1a-7a90c97d85f5")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C38")
 					(unit 1)
@@ -15789,7 +15789,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "myCC:GW DASPA2.EC"
+		(property "Footprint" "CredIT-Card:GW DASPA2.EC"
 			(at 201.93 220.98 0)
 			(effects
 				(font
@@ -15841,7 +15841,7 @@
 			(uuid "737f2c0c-fed6-4c28-b1a1-0360499e7f19")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "D3")
 					(unit 1)
@@ -15850,7 +15850,7 @@
 		)
 	)
 	(symbol
-		(lib_id "myCC:LM4819")
+		(lib_id "CredIT-Card:LM4819")
 		(at 115.57 209.55 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15927,7 +15927,7 @@
 			(uuid "32dd6dbc-250f-4b4f-bef3-b028cf2cc811")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "U8")
 					(unit 1)
@@ -15964,7 +15964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "myCC:TE_2425578-1"
+		(property "Footprint" "CredIT-Card:TE_2425578-1"
 			(at 377.19 219.71 0)
 			(effects
 				(font
@@ -16016,7 +16016,7 @@
 			(uuid "f8f046ce-71d6-4d5a-a150-768c0cc11523")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "SW3")
 					(unit 1)
@@ -16083,7 +16083,7 @@
 			(uuid "592657a6-eade-4be0-923a-c95e56ba526c")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0116")
 					(unit 1)
@@ -16150,7 +16150,7 @@
 			(uuid "12d1ccc8-1f94-4eac-9bfe-4ab4940d853a")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR098")
 					(unit 1)
@@ -16216,7 +16216,7 @@
 			(uuid "d551abc8-6641-43b1-be6f-40e9338bf0ea")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR082")
 					(unit 1)
@@ -16294,7 +16294,7 @@
 			(uuid "11ee88c1-ed2e-4aab-821f-9bc2031770ea")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "U10")
 					(unit 1)
@@ -16360,7 +16360,7 @@
 			(uuid "20c82909-3b6b-48b5-ae47-eebf77bc000c")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR089")
 					(unit 1)
@@ -16430,7 +16430,7 @@
 			(uuid "be723022-c160-4e23-a425-629395ec0391")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C23")
 					(unit 1)
@@ -16501,7 +16501,7 @@
 			(uuid "e222bee5-9850-48ee-8435-56621a854959")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R20")
 					(unit 1)
@@ -16568,7 +16568,7 @@
 			(uuid "3c6427c7-9cfe-45bf-ba8e-741a09dfb36a")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR076")
 					(unit 1)
@@ -16634,7 +16634,7 @@
 			(uuid "a8dff822-2404-437a-9eba-33b21ea17842")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR086")
 					(unit 1)
@@ -16705,7 +16705,7 @@
 			(uuid "02fd941d-5109-45c5-8f30-50f805daca21")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R33")
 					(unit 1)
@@ -16775,7 +16775,7 @@
 			(uuid "1298a609-9183-4071-b6b9-a25a955e8445")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C35")
 					(unit 1)
@@ -16842,7 +16842,7 @@
 			(uuid "8924eee1-0700-4cea-9c1a-2ea6f5cf6a73")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR070")
 					(unit 1)
@@ -16913,7 +16913,7 @@
 			(uuid "64044bf4-5cb3-4258-a74c-086aca1e3c9e")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C41")
 					(unit 1)
@@ -16979,7 +16979,7 @@
 			(uuid "1109543b-0d16-4db8-b504-a9dceafe89a8")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR069")
 					(unit 1)
@@ -17050,7 +17050,7 @@
 			(uuid "fe9b0779-b076-47c3-b675-e60c051881e2")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R25")
 					(unit 1)
@@ -17121,7 +17121,7 @@
 			(uuid "51a055eb-9dfe-4b73-81e1-e04a8d07c538")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C42")
 					(unit 1)
@@ -17188,7 +17188,7 @@
 			(uuid "db84e9e5-e82f-4f18-bd65-8b5a8bf68e25")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0104")
 					(unit 1)
@@ -17256,7 +17256,7 @@
 			(uuid "3610c554-466d-4f40-846e-2c188b38e559")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R26")
 					(unit 1)
@@ -17291,7 +17291,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myCC:TOUCH_BT"
+		(property "Footprint" "CredIT-Card:TOUCH_BT"
 			(at 346.71 68.58 0)
 			(effects
 				(font
@@ -17322,7 +17322,7 @@
 			(uuid "4d77a2f5-38c4-4ce8-be20-6fba7bdeaf15")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "TB3")
 					(unit 1)
@@ -17388,7 +17388,7 @@
 			(uuid "5c588ccb-4413-477d-bab4-1de60bbd69bf")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR090")
 					(unit 1)
@@ -17454,7 +17454,7 @@
 			(uuid "97b2400b-099a-4043-84f8-3a943034f0cb")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR0123")
 					(unit 1)
@@ -17521,7 +17521,7 @@
 			(uuid "17143ad8-ea43-41b4-883c-150378c1c35f")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR081")
 					(unit 1)
@@ -17588,7 +17588,7 @@
 			(uuid "271f83ef-754f-409d-ad07-a48ea5db1ae1")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR073")
 					(unit 1)
@@ -17655,7 +17655,7 @@
 			(uuid "c0a92b4a-f32d-46c0-ac61-3597cc190cfc")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR083")
 					(unit 1)
@@ -17721,7 +17721,7 @@
 			(uuid "f5d14f85-dc57-48e2-bb76-e6287afd2566")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR091")
 					(unit 1)
@@ -17806,7 +17806,7 @@
 			(uuid "cd88b3ef-c430-44b1-b06b-14773ee493a9")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C29")
 					(unit 1)
@@ -17872,7 +17872,7 @@
 			(uuid "099b3613-f20c-4bf1-83fd-03bdcd90353b")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "#PWR078")
 					(unit 1)
@@ -17906,7 +17906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myCC:SW_EG1215AA "
+		(property "Footprint" "CredIT-Card:SW_EG1215AA "
 			(at 295.91 40.64 0)
 			(effects
 				(font
@@ -17943,7 +17943,7 @@
 			(uuid "59b61819-d450-4b8e-abcd-4078748d9a21")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "SW1")
 					(unit 1)
@@ -18013,7 +18013,7 @@
 			(uuid "877d8318-7950-4ad5-ab87-a0b2729a51ac")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "C56")
 					(unit 1)
@@ -18081,7 +18081,7 @@
 			(uuid "cd9148b6-4a03-40a3-ac8d-992846019b48")
 		)
 		(instances
-			(project "myCC"
+			(project "CredIT-Card"
 				(path "/cf02616b-7563-498d-8298-4a13535fe00b/863fb3d4-e858-4745-81ae-48f5f6746919"
 					(reference "R19")
 					(unit 1)

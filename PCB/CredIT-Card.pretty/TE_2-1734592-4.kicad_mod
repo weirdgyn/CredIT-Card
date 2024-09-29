@@ -376,7 +376,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "17a48a1e-bcc8-467f-a1bc-ccf583106d7f")
 	)
-	(model "${KIPRJMOD}/myCC.pretty/3D/2-1734592-4.step"
+	(model "${KIPRJMOD}/CredIT-Card.pretty/3D/2-1734592-4.step"
 		(offset
 			(xyz 0 -4.5 1)
 		)

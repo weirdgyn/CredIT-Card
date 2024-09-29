@@ -114,7 +114,7 @@
 		(roundrect_rratio 0.125)
 		(uuid "c5c49877-97e0-4861-8a5a-b7d1b3b8dc6d")
 	)
-	(model "${KIPRJMOD}/myCC.pretty/3D/GW_DASPA2_EC_20200120_geometry.STEP"
+	(model "${KIPRJMOD}/CredIT-Card.pretty/3D/GW_DASPA2_EC_20200120_geometry.STEP"
 		(offset
 			(xyz 0 0.5 0)
 		)
