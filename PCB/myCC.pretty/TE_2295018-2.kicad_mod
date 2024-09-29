@@ -1059,7 +1059,7 @@
 		(remove_unused_layers no)
 		(uuid "97119da7-f091-423b-aa70-3775e59fdbc1")
 	)
-	(model "${KIPRJMOD}/myCC.pretty/2295018-2.step"
+	(model "${KIPRJMOD}/myCC.pretty/3D/2295018-2.step"
 		(offset
 			(xyz 0 1.4 0)
 		)

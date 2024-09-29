@@ -346,7 +346,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "63d3c697-3dea-47eb-a1c3-84a1151fe933")
 	)
-	(model "${KIPRJMOD}/myCC.pretty/VL53L1CBV0FY-1.step"
+	(model "${KIPRJMOD}/myCC.pretty/3D/VL53L1CBV0FY-1.step"
 		(offset
 			(xyz 0 0 0)
 		)

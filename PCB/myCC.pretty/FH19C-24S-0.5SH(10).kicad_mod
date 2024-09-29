@@ -282,7 +282,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "91c78579-35d6-4148-aaac-fce6c8dab1f8")
 	)
-	(model "${KIPRJMOD}/myCC.pretty/FH19C-24S-0.5SH-10.stp"
+	(model "${KIPRJMOD}/myCC.pretty/3D/FH19C-24S-0.5SH-10.stp"
 		(offset
 			(xyz -0.5 6.15 -0.09)
 		)
